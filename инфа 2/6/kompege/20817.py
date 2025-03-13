@@ -31,5 +31,4 @@ for x in range(-50,50):
         goto(x*r,y*r)
         dot(3,'red')
 done()
-#6391+324
-#6468+336
+#6748
