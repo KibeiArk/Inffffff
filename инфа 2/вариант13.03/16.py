@@ -1,5 +1,4 @@
 from sys import*
-
 def f(n):
     if n>400:
         return n**n
